@@ -1,4 +1,4 @@
-
+github
 # yaml-language-server: $schema=https://aka.ms/configuration-dsc-schema/0.2
 # Reference: https://github.com/microsoft/vscode/wiki/How-to-Contribute
 properties:
